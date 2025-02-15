@@ -24,5 +24,6 @@ Cloud & Databases: Snowflake, MySQL
 
 📬 Connect With Me
 📧 Email: tristsnyder@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/tristan-snyder1
 

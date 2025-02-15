@@ -23,7 +23,6 @@ Cloud & Databases: Snowflake, MySQL
 🔹 Sarah Get's a Diamond Tableau Dashboard
 
 📬 Connect With Me
-📧 Email: tristsnyder@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/tristan-snyder1
+📧 Email: tristsnyder@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/tristan-snyder1
 
